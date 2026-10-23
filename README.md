@@ -72,7 +72,7 @@ Smart Data Analyzer is one step in that journey.
 
 👨‍💻 Author
 
-Bhavishya patilq
+Bhavishya patil
 
 Learning, building, and improving — one project at a time.
 
