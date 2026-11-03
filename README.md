@@ -45,7 +45,7 @@ Output:
 =====HERE'S YOUR ANALYZED DATA=====
 
 length of the given DATA is : 3
-2
+
 sum of the given DATA is : 60
 
 average of the given DATA is : 20.00
